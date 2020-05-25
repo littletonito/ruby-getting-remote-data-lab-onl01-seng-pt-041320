@@ -9,4 +9,6 @@ class GetRequester
     @url = url
   end
   
+  
+  
 end
